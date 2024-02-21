@@ -1,0 +1,18 @@
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+input {
+    width: 100%;
+}
+.items-container {
+    text-align: left;
+}
+.td-row {
+    margin: 10px 5px ;
+}
+.td-button {
+    min-width: 68px;
+} 
